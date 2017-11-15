@@ -1,0 +1,18 @@
+﻿  Matrix.cpp
+c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(39): error C2244: 'CMatrix<T>::operator =': unable to match function definition to an existing declaration
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(36): note: see declaration of 'CMatrix<T>::operator ='
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(39): note: definition
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(39): note: 'CMatrix<T> &CMatrix<T>::operator =(CMatrix<T> &)'
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(39): note: existing declarations
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(39): note: 'CMatrix<T> &CMatrix<T>::operator =(const CMatrix<T> &)'
+c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): error C2244: 'CMatrix<T>::CMatrix': unable to match function definition to an existing declaration
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(42): note: see declaration of 'CMatrix<T>::CMatrix'
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): note: definition
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): note: 'CMatrix<T>::CMatrix(CMatrix<T> &&)'
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): note: existing declarations
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): note: 'CMatrix<T>::CMatrix(const CMatrix<T> &)'
+  c:\users\bujaz\desktop\programowanie\c++\klasy\macierze\macierze\matrix.cpp(47): note: 'CMatrix<T>::CMatrix(unsigned int,unsigned int)'
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
